@@ -11,7 +11,7 @@ This dashboard provides insights into:
 - Revenue trends mirroring booking patterns, with peak monthly revenue exceeding €2M in 2016
 
 - Year-over-year revenue comparison:
- - 2014: Approximately €0.5M (baseline year)
+-- 2014: Approximately €0.5M (baseline year)
  - 2015: Approximately €7.5M (1,400% increase from 2014)
  - 2016: Approximately €12M (60% increase from 2015)
  - 2017: Approximately €7M (41.7% decrease from 2016)
