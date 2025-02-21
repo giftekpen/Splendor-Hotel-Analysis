@@ -32,16 +32,16 @@ Transient guests drive 48.3% of bookings (58,000) and 37.2% of revenue (€11M),
 Peak booking periods in 2016 saw nearly 8,000 monthly bookings and €2M in monthly revenue, a 60% increase over 2015 figures.
 
 ## Business Recommendations
-### 1. Optimize Deposit Policies: 
+- Optimize Deposit Policies:
 Implement targeted deposit requirements for high-risk booking periods to reduce the 44.3% revenue leakage, especially for the no-deposit segment that accounts for 75% of cancellations.
-### 2. Channel Strategy: 
+- Channel Strategy: 
 Invest in strengthening online travel agent relationships which deliver 57.4% of revenue while developing strategies to increase direct bookings (currently 15.2% of revenue) to improve margins.
-### 3. Geographic Targeting: 
+- Geographic Targeting: 
 Focus marketing efforts on the top 5 countries (Portugal, UK, France, Germany, Spain) that generate 40.9% of revenue while developing targeted campaigns for the remaining markets that represent 59.1% of revenue opportunity.
-### 4. Lead Time Management: 
+- Lead Time Management: 
 - Implement dynamic pricing for bookings with:
   - 120+ days lead time (offline and online agent channels)
   - 40-80 days lead time (corporate channel)
   - Direct channel bookings (60-110 days)
-### 5. Revenue Recovery: 
+- Revenue Recovery: 
 Develop strategies to recapture the €13.12M in revenue losses (44.3% of potential revenue), focusing specifically on the no-deposit booking segment that contributes to 75% of cancellations.
