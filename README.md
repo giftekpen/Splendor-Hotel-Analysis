@@ -85,4 +85,28 @@ Top 5 countries combined: €12.1M (40.9% of total revenue)
   - Group guests: ~€0.2M (0.7% of total revenue)
 
 ## Key Insights
+### 1. Channel Effectiveness: 
+Online travel agents generate 57.4% of total revenue (€17M) while commanding 53.3% higher average daily rates than offline agents.
+### 2. Deposit Policy Impact:
+No-deposit bookings account for 84.5% of revenue (€25M) but represent 75% of all cancellations (30,000), suggesting a 44.3% revenue leakage (€13.12M) primarily from this segment.
+### 3. Market Concentration: 
+Portugal represents 42.5% of guest volume (85,000 guests) and 13.5% of revenue (€4M), with the top 5 countries generating 40.9% of total revenue.
+### 4. Customer Segmentation: 
+Transient guests drive 48.3% of bookings (58,000) and 37.2% of revenue (€11M), predominantly through online channels.
+### 5. Seasonal Patterns: 
+Peak booking periods in 2016 saw nearly 8,000 monthly bookings and €2M in monthly revenue, a 60% increase over 2015 figures.
 
+## Business Recommendations
+### 1. Optimize Deposit Policies: 
+Implement targeted deposit requirements for high-risk booking periods to reduce the 44.3% revenue leakage, especially for the no-deposit segment that accounts for 75% of cancellations.
+### 2. Channel Strategy: 
+Invest in strengthening online travel agent relationships which deliver 57.4% of revenue while developing strategies to increase direct bookings (currently 15.2% of revenue) to improve margins.
+### 4. Geographic Targeting: 
+Focus marketing efforts on the top 5 countries (Portugal, UK, France, Germany, Spain) that generate 40.9% of revenue while developing targeted campaigns for the remaining markets that represent 59.1% of revenue opportunity.
+### 5. Lead Time Management: 
+- Implement dynamic pricing for bookings with:
+  - 120+ days lead time (offline and online agent channels)
+  - 40-80 days lead time (corporate channel)
+  - Direct channel bookings (60-110 days)
+### 6. Revenue Recovery: 
+Develop strategies to recapture the €13.12M in revenue losses (44.3% of potential revenue), focusing specifically on the no-deposit booking segment that contributes to 75% of cancellations.
