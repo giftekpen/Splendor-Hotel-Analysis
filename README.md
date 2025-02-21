@@ -20,15 +20,15 @@ This dashboard maps guest demographics and booking preferences, revealing Portug
 This dashboard Identifies key revenue opportunities across markets and segments. The top five countries generate 40.9% of total revenue, with transient customers through corporate channels yielding the highest daily rates. Transient guests contribute 37.2% of revenue despite generating 48.3% of bookings, indicating potential for rate optimization in this segment.
 
 ## Key Insights
-### 1. Channel Effectiveness: 
+1. Channel Effectiveness: 
 Online travel agents generate 57.4% of total revenue (€17M) while commanding 53.3% higher average daily rates than offline agents.
-### 2. Deposit Policy Impact:
+2. Deposit Policy Impact:
 No-deposit bookings account for 84.5% of revenue (€25M) but represent 75% of all cancellations (30,000), suggesting a 44.3% revenue leakage (€13.12M) primarily from this segment.
-### 3. Market Concentration: 
+3. Market Concentration: 
 Portugal represents 42.5% of guest volume (85,000 guests) and 13.5% of revenue (€4M), with the top 5 countries generating 40.9% of total revenue.
-### 4. Customer Segmentation: 
+4. Customer Segmentation: 
 Transient guests drive 48.3% of bookings (58,000) and 37.2% of revenue (€11M), predominantly through online channels.
-### 5. Seasonal Patterns: 
+5. Seasonal Patterns: 
 Peak booking periods in 2016 saw nearly 8,000 monthly bookings and €2M in monthly revenue, a 60% increase over 2015 figures.
 
 ## Business Recommendations
