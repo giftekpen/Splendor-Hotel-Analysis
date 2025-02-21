@@ -11,16 +11,16 @@ This dashboard provides insights into:
 - Revenue trends mirroring booking patterns, with peak monthly revenue exceeding €2M in 2016
 
 - Year-over-year revenue comparison:
-   - 2014: Approximately €0.5M (baseline year)
- - 2015: Approximately €7.5M (1,400% increase from 2014)
- - 2016: Approximately €12M (60% increase from 2015)
- - 2017: Approximately €7M (41.7% decrease from 2016)
+  - 2014: Approximately €0.5M (baseline year)
+  - 2015: Approximately €7.5M (1,400% increase from 2014)
+  - 2016: Approximately €12M (60% increase from 2015)
+  - 2017: Approximately €7M (41.7% decrease from 2016)
 
 - Average lead time analysis:
- - Offline travel agents: 160+ days for contract customers (highest overall)
- - Online travel agents: 120-130 days for transient-party customers
- - Direct channel: 60-110 days across customer types
- - Corporate channel: 40-80 days (shortest lead times overall)
+  - Offline travel agents: 160+ days for contract customers (highest overall)
+  - Online travel agents: 120-130 days for transient-party customers
+  - Direct channel: 60-110 days across customer types
+  - Corporate channel: 40-80 days (shortest lead times overall)
 
 2. Customer Behavior Analysis
 
