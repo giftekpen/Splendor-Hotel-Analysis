@@ -63,36 +63,26 @@ This dashboard examines:
   - Contract bookings: ~10,000 bookings (8.3% of total bookings)
   - Group bookings: Minimal representation (<1% of total bookings)
 
-
-
-
 ### 4. Revenue Optimization Insights
-![]()
+![Revenue Optimization.png](https://github.com/giftekpen/Splendor-Hotel-Analysis/blob/main/Revenue%20Optimization.png)
 This dashboard focuses on:
-
-Country-based revenue contribution:
-
-Portugal: €4M (13.5% of total revenue)
-United Kingdom: €3M (10.1% of total revenue)
-France: €2.2M (7.4% of total revenue)
-Germany: €1.6M (5.4% of total revenue)
-Spain: €1.3M (4.4% of total revenue)
+- Country-based revenue contribution:
+  - Portugal: €4M (13.5% of total revenue)
+  - United Kingdom: €3M (10.1% of total revenue)
+  - France: €2.2M (7.4% of total revenue)
+  - Germany: €1.6M (5.4% of total revenue)
+  - Spain: €1.3M (4.4% of total revenue)
 Top 5 countries combined: €12.1M (40.9% of total revenue)
-
-
-Average daily rate by customer type and distribution channel:
-
-Transient customers through corporate channel: ~€7M cumulative ADR (highest)
-Transient-party through online agents: ~€1.5M cumulative ADR
-Contract customers through direct channel: ~€1M cumulative ADR
-Group bookings: Generally lowest ADR across all channels
-
-
-Revenue breakdown by customer segment:
-
-Transient guests: ~€11M (37.2% of total revenue)
-Transient-party guests: ~€4M (13.5% of total revenue)
-Contract guests: ~€1M (3.4% of total revenue)
-Group guests: ~€0.2M (0.7% of total revenue)
+- Average daily rate by customer type and distribution channel:
+  - Transient customers through corporate channel: ~€7M cumulative ADR (highest)
+  - Transient-party through online agents: ~€1.5M cumulative ADR
+  - Contract customers through direct channel: ~€1M cumulative ADR
+  - Group bookings: Generally lowest ADR across all channels
+- Revenue breakdown by customer segment:
+  - Transient guests: ~€11M (37.2% of total revenue)
+  - Transient-party guests: ~€4M (13.5% of total revenue)
+  - Contract guests: ~€1M (3.4% of total revenue)
+  - Group guests: ~€0.2M (0.7% of total revenue)
 
 ## Key Insights
+
