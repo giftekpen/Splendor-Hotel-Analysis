@@ -21,7 +21,7 @@ This dashboard provides insights into:
   - Corporate channel: 40-80 days (shortest lead times overall)
 
 2. Customer Behavior Analysis
-
+![Customer Behaviour.png]()
 
 
 
