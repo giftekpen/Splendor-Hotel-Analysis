@@ -42,6 +42,7 @@ This dashboard explores:
   - Corporate channel: ~€0.5M cumulative ADR (lowest rates overall)
 
 ### 3. Deposit Type Impact Analysis 
+![Corporate booking Analysis.png](https://github.com/giftekpen/Splendor-Hotel-Analysis/blob/main/Corporate%20booking%20Analysis.png)
 
 
 
