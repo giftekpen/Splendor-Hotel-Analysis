@@ -20,16 +20,32 @@ This dashboard provides insights into:
   - Direct channel: 60-110 days across customer types
   - Corporate channel: 40-80 days (shortest lead times overall)
 
-2. Customer Behavior Analysis
-![Customer Behaviour.png]()
+### 2. Customer Behavior Analysis
+![Customer Behaviour.png](https://github.com/giftekpen/Splendor-Hotel-Analysis/blob/main/Customer%20Behaviour.png)
+This dashboard explores:
+- Geographic distribution of guests:
+  - Portugal: ~85,000 guests (42.5% of total guests)
+  - United Kingdom: ~30,000 guests (15% of total guests)
+  - France: ~25,000 guests (12.5% of total guests)
+  - Spain: ~20,000 guests (10% of total guests)
+  - Germany: ~15,000 guests (7.5% of total guests)
+  - Other countries: ~25,000 guests combined (12.5% of total guests)
+- Revenue by distribution channel:
+  - Online travel agents: ~€17M (57.4% of total revenue)
+  - Offline travel agents: ~€7M (23.6% of total revenue)
+  - Direct channel: ~€4.5M (15.2% of total revenue)
+  - Corporate channel: ~€1.1M (3.7% of total revenue)
+- Average daily rate by distribution channel:
+  - Online travel agents: ~€8M cumulative ADR (53.3% higher than offline agents)
+  - Offline travel agents: ~€2.5M cumulative ADR
+  - Direct channel: ~€2M cumulative ADR
+  - Corporate channel: ~€0.5M cumulative ADR (lowest rates overall)
+
+### 3. Deposit Type Impact Analysis 
 
 
 
-3. Revenue Optimization Insights
 
+### 4. Revenue Optimization Insights
 
-
-
-4. Deposit Type Impact Analysis
-
-## KEY INSIGHT
+## Key Insights
